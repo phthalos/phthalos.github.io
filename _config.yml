@@ -112,7 +112,7 @@ analytics:
 # Site Author
 author:
   name: "phthalos"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/bio-photo.jpeg"
   bio: "I am an **amazing** person."
   location: "Somewhere"
   email:
